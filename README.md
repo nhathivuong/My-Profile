@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me nhathivuong@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have wrote the first draft of multiple personnal novels
