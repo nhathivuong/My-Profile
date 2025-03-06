@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nha-Thi Vuong
-- 👀 I’m interested in Web development as well as app development
-- 🌱 I’m currently learning HTML CSS and Javascript
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me nhathivuong@gmail.com
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning HTML CSS and Javascript, as well as the REACT library and Angular Framework.
+- 📫 You can reach me on my email: nhathivuong@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have wrote the first draft of multiple personnal novels
